@@ -4,4 +4,4 @@
 参考：
 > [跟我一起学C# 设计模式— Learning hard](https://www.cnblogs.com/zhili/category/496417.html)
 
-![DesignPattern](https://tozii.github.io/Asset/DesignPattern/images/IMG_0201.PNG)
+![DesignPattern](../static/img/IMG_0201.PNG)
